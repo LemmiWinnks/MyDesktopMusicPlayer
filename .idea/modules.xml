@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyDesktopMusicPlayer.iml" filepath="$PROJECT_DIR$/MyDesktopMusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.playMusic/com.playMusic.iml" filepath="$PROJECT_DIR$/com.playMusic/com.playMusic.iml" />
+    </modules>
+  </component>
+</project>
